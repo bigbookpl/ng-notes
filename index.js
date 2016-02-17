@@ -23,7 +23,7 @@
     app.directive('note', function(){
        return{
            restrict : 'E',
-           templateUrl: 'note.html'
+           templateUrl: '_note.html'
        }
     });
 
